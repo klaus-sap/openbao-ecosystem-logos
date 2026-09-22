@@ -1,0 +1,142 @@
+{
+  "adfinis": {
+    "dark": "adfinis.svg",
+    "light": "adfinis.svg",
+    "url": "https://www.adfinis.com/en/partners-and-products/openbao?mtm_campaign=openbao&mtm_kwd=global&mtm_source=openbao&mtm_medium=website"
+  },
+  "apeirora": {
+    "dark": "apeirora.svg",
+    "light": "apeirora.svg",
+    "url": "https://apeirora.eu"
+  },
+  "bespinian": {
+    "dark": "bespinian.svg",
+    "light": "bespinian.svg",
+    "url": "https://bespinian.io/en/openbao?utm_source=openbao&utm_medium=referral&utm_campaign=openbao_offering"
+  },
+  "blendbyte": {
+    "dark": "blendbyte.svg",
+    "light": "blendbyte.svg",
+    "url": "https://www.blendbyte.com"
+  },
+  "c4a": {
+    "dark": "c4a/dark.svg",
+    "light": "c4a/light.svg",
+    "url": "https://crypto4a.com"
+  },
+  "controlplane": {
+    "dark": "controlplane/dark.svg",
+    "light": "controlplane/light.svg",
+    "url": "https://controlplane.io"
+  },
+  "duokey": {
+    "dark": "duokey/dark.svg",
+    "light": "duokey/light.svg",
+    "url": "https://duokey.com/"
+  },
+  "eu_bmwk": {
+    "dark": "eu_bmwk.svg",
+    "light": "eu_bmwk.svg",
+    "url": "https://commission.europa.eu/strategy-and-policy/recovery-plan-europe_en"
+  },
+  "fermilab": {
+    "dark": "fermilab.svg",
+    "light": "fermilab.svg",
+    "url": "https://www.fnal.gov"
+  },
+  "gateplane": {
+    "dark": "gateplane/dark.svg",
+    "light": "gateplane/light.svg",
+    "url": "https://github.com/gateplane-io"
+  },
+  "gitlab": {
+    "dark": "gitlab.svg",
+    "light": "gitlab.svg",
+    "url": "https://gitlab.com"
+  },
+  "helvethink": {
+    "dark": "helvethink.svg",
+    "light": "helvethink.svg",
+    "url": "https://www.helvethink.ch"
+  },
+  "kubermatic": {
+    "dark": "kubermatic/dark.svg",
+    "light": "kubermatic/light.svg",
+    "url": "https://www.kubermatic.com"
+  },
+  "liquidreply": {
+    "dark": "liquidreply/dark.svg",
+    "light": "liquidreply/light.svg",
+    "url": "https://liquidreply.net"
+  },
+  "natron": {
+    "dark": "natron/dark.svg",
+    "light": "natron/light.svg",
+    "url": "https://natron.io"
+  },
+  "nitrokey": {
+    "dark": "nitrokey/dark.svg",
+    "light": "nitrokey/light.svg",
+    "url": "https://www.nitrokey.com"
+  },
+  "nvidia": {
+    "dark": "nvidia/dark.svg",
+    "light": "nvidia/light.svg",
+    "url": "https://github.com/NVIDIA/nvcf"
+  },
+  "origoss-solutions": {
+    "dark": "origoss-solutions/dark.svg",
+    "light": "origoss-solutions/light.svg",
+    "url": "https://origoss.com"
+  },
+  "ovhcloud": {
+    "dark": "ovhcloud.svg",
+    "light": "ovhcloud.svg",
+    "url": "https://www.ovhcloud.com"
+  },
+  "percona": {
+    "dark": "percona.svg",
+    "light": "percona.svg",
+    "url": "https://www.percona.com"
+  },
+  "proton": {
+    "dark": "proton.svg",
+    "light": "proton.svg",
+    "url": "https://proton.me"
+  },
+  "sigstore": {
+    "dark": "sigstore/dark.svg",
+    "light": "sigstore/light.svg",
+    "url": "https://www.sigstore.dev"
+  },
+  "sap": {
+    "dark": "sap.svg",
+    "light": "sap.svg",
+    "url": "https://sap.com"
+  },
+  "securosys": {
+    "dark": "securosys.svg",
+    "light": "securosys.svg",
+    "url": "https://www.securosys.com"
+  },
+  "stackhpc": {
+    "dark": "stackhpc.svg",
+    "light": "stackhpc.svg",
+    "url": "https://www.stackhpc.com"
+  },
+  "trutzio": {
+    "dark": "trutzio/dark.svg",
+    "light": "trutzio/light.svg",
+    "url": "https://trutz.io"
+  },
+  "utimaco": {
+    "dark": "utimaco/dark.svg",
+    "light": "utimaco/light.svg",
+    "url": "https://utimaco.com"
+  },
+  "warden": {
+    "dark": "warden.svg",
+    "light": "warden.svg",
+    "url": "https://github.com/stephnangue/warden"
+  }
+}
