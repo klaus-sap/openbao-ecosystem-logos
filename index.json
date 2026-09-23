@@ -2,169 +2,169 @@
   "adfinis": {
     "dark": "adfinis.svg",
     "light": "adfinis.svg",
-    "text": "Adfinis",
+    "alt": "Adfinis",
     "url": "https://www.adfinis.com/en/partners-and-products/openbao?mtm_campaign=openbao&mtm_kwd=global&mtm_source=openbao&mtm_medium=website"
   },
   "apeirora": {
     "dark": "apeirora.svg",
     "light": "apeirora.svg",
-    "text": "ApeiroRA",
+    "alt": "ApeiroRA",
     "url": "https://apeirora.eu"
   },
   "bespinian": {
     "dark": "bespinian.svg",
     "light": "bespinian.svg",
-    "text": "bespinian",
+    "alt": "bespinian",
     "url": "https://bespinian.io/en/openbao?utm_source=openbao&utm_medium=referral&utm_campaign=openbao_offering"
   },
   "blendbyte": {
     "dark": "blendbyte.svg",
     "light": "blendbyte.svg",
-    "text": "Blendbyte",
+    "alt": "Blendbyte",
     "url": "https://www.blendbyte.com"
   },
   "c4a": {
     "dark": "c4a/dark.svg",
     "light": "c4a/light.svg",
-    "text": "Crypto4A",
+    "alt": "Crypto4A",
     "url": "https://crypto4a.com"
   },
   "controlplane": {
     "dark": "controlplane/dark.svg",
     "light": "controlplane/light.svg",
-    "text": "ControlPlane",
+    "alt": "ControlPlane",
     "url": "https://controlplane.io"
   },
   "duokey": {
     "dark": "duokey/dark.svg",
     "light": "duokey/light.svg",
-    "text": "DuoKey",
+    "alt": "DuoKey",
     "url": "https://duokey.com"
   },
   "eu_bmwk": {
     "dark": "eu_bmwk.svg",
     "light": "eu_bmwk.svg",
-    "text": "European Union - NextGenerationEU",
+    "alt": "European Union - NextGenerationEU",
     "url": "https://commission.europa.eu/strategy-and-policy/recovery-plan-europe_en"
   },
   "fermilab": {
     "dark": "fermilab.svg",
     "light": "fermilab.svg",
-    "text": "Fermilab",
+    "alt": "Fermilab",
     "url": "https://www.fnal.gov"
   },
   "gateplane": {
     "dark": "gateplane/dark.svg",
     "light": "gateplane/light.svg",
-    "text": "GatePlane",
+    "alt": "GatePlane",
     "url": "https://github.com/gateplane-io"
   },
   "gitlab": {
     "dark": "gitlab.svg",
     "light": "gitlab.svg",
-    "text": "GitLab",
+    "alt": "GitLab",
     "url": "https://gitlab.com"
   },
   "helvethink": {
     "dark": "helvethink.svg",
     "light": "helvethink.svg",
-    "text": "Helvethink",
+    "alt": "Helvethink",
     "url": "https://www.helvethink.ch"
   },
   "kubermatic": {
     "dark": "kubermatic/dark.svg",
     "light": "kubermatic/light.svg",
-    "text": "Kubermatic SecureGuard",
+    "alt": "Kubermatic SecureGuard",
     "url": "https://www.kubermatic.com"
   },
   "liquidreply": {
     "dark": "liquidreply/dark.svg",
     "light": "liquidreply/light.svg",
-    "text": "Liquid Reply",
+    "alt": "Liquid Reply",
     "url": "https://liquidreply.net"
   },
   "natron": {
     "dark": "natron/dark.svg",
     "light": "natron/light.svg",
-    "text": "Natron Tech AG",
+    "alt": "Natron Tech AG",
     "url": "https://natron.io"
   },
   "nitrokey": {
     "dark": "nitrokey/dark.svg",
     "light": "nitrokey/light.svg",
-    "text": "Nitrokey",
+    "alt": "Nitrokey",
     "url": "https://www.nitrokey.com"
   },
   "nvidia": {
     "dark": "nvidia/dark.svg",
     "light": "nvidia/light.svg",
-    "text": "NVIDIA Cloud Functions (NVCF)",
+    "alt": "NVIDIA Cloud Functions (NVCF)",
     "url": "https://github.com/NVIDIA/nvcf"
   },
   "origoss-solutions": {
     "dark": "origoss-solutions/dark.svg",
     "light": "origoss-solutions/light.svg",
-    "text": "Origoss Solutions",
+    "alt": "Origoss Solutions",
     "url": "https://origoss.com"
   },
   "ovhcloud": {
     "dark": "ovhcloud.svg",
     "light": "ovhcloud.svg",
-    "text": "OVHcloud",
+    "alt": "OVHcloud",
     "url": "https://www.ovhcloud.com"
   },
   "percona": {
     "dark": "percona.svg",
     "light": "percona.svg",
-    "text": "Percona",
+    "alt": "Percona",
     "url": "https://www.percona.com"
   },
   "proton": {
     "dark": "proton.svg",
     "light": "proton.svg",
-    "text": "Proton",
+    "alt": "Proton",
     "url": "https://proton.me"
   },
   "sigstore": {
     "dark": "sigstore/dark.svg",
     "light": "sigstore/light.svg",
-    "text": "Sigstore",
+    "alt": "Sigstore",
     "url": "https://www.sigstore.dev"
   },
   "sap": {
     "dark": "sap.svg",
     "light": "sap.svg",
-    "text": "SAP SE",
+    "alt": "SAP SE",
     "url": "https://sap.com"
   },
   "securosys": {
     "dark": "securosys.svg",
     "light": "securosys.svg",
-    "text": "Securosys",
+    "alt": "Securosys",
     "url": "https://www.securosys.com"
   },
   "stackhpc": {
     "dark": "stackhpc.svg",
     "light": "stackhpc.svg",
-    "text": "StackHPC",
+    "alt": "StackHPC",
     "url": "https://www.stackhpc.com"
   },
   "trutzio": {
     "dark": "trutzio/dark.svg",
     "light": "trutzio/light.svg",
-    "text": "trutz.io",
+    "alt": "trutz.io",
     "url": "https://trutz.io"
   },
   "utimaco": {
     "dark": "utimaco/dark.svg",
     "light": "utimaco/light.svg",
-    "text": "Utimaco",
+    "alt": "Utimaco",
     "url": "https://utimaco.com"
   },
   "warden": {
     "dark": "warden.svg",
     "light": "warden.svg",
-    "text": "Warden",
+    "alt": "Warden",
     "url": "https://github.com/stephnangue/warden"
   }
 }
