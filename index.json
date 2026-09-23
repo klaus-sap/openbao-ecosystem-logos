@@ -74,7 +74,7 @@
   "kubermatic": {
     "dark": "kubermatic/dark.svg",
     "light": "kubermatic/light.svg",
-    "alt": "Kubermatic SecureGuard",
+    "alt": "Kubermatic",
     "url": "https://www.kubermatic.com"
   },
   "liquidreply": {
@@ -165,6 +165,6 @@
     "dark": "warden.svg",
     "light": "warden.svg",
     "alt": "Warden",
-    "url": "https://github.com/stephnangue/warden"
+    "url": "https://wardengateway.com"
   }
 }
