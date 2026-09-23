@@ -30,5 +30,5 @@ inkscape --actions "select-all;fit-canvas-to-selection" --export-plain-svg --exp
 
 ## Index File
 
-If your logo shall appear on the overview page https://openbao.org/ecosystem/#our-ecosystem,
+If your logo shall appear on the Ecosystem pages https://openbao.org/ecosystem,
 please add an entry to the index file "index.json".
